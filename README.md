@@ -34,19 +34,34 @@ F1 Score - 0.86
 Top 15 drivers from the Model:
 
 JobLevel	0.080065
+
 JobRole_Human Resources	0.076446
+
 JobRole_Sales Representative	0.071682
+
 OverTime_Yes	0.069779
+
 Department_Sales	0.064193
+
 StockOptionLevel	0.052658
+
 BusinessTravel_Travel_Frequently	0.041736
+
 EducationField_Marketing	0.035735
+
 YearsWithCurrManager	0.034497
+
 MonthlyIncome	0.034487
+
 EducationField_Technical Degree	0.032165
+
 TotalWorkingYears	0.030830
+
 YearsSinceLastPromotion	0.030701
+
 YearsInCurrentRole	0.030699
+
 EnvironmentSatisfaction	0.030547
+
 YearsAtCompany	0.029553
 
